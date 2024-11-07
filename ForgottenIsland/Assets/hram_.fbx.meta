@@ -1,0 +1,406 @@
+fileFormatVersion: 2
+guid: 23edb87a91b094c4786af61ad5a067da
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Aztec God
+    100002: Cube
+    100004: Cube.001
+    100006: Cube.002
+    100008: Cube.003
+    100010: Cube.004
+    100012: Cube.005
+    100014: Cube.006
+    100016: Floor
+    100018: Floor.001
+    100020: Floor.002
+    100022: Floor.003
+    100024: Floor.004
+    100026: Floor.005
+    100028: Floor.006
+    100030: Floor.007
+    100032: //RootNode
+    100034: Large Pillars
+    100036: Large Pillars.001
+    100038: Large Pillars.002
+    100040: Large Pillars.003
+    100042: Large Pillars.004
+    100044: Large Pillars.005
+    100046: Large Pillars.006
+    100048: Large Pillars.007
+    100050: Large Pillars.008
+    100052: Large Pillars.009
+    100054: Large Pillars.010
+    100056: Large Pillars.011
+    100058: Large Pillars.012
+    100060: Large Pillars.013
+    100062: Large Pillars.014
+    100064: Large Pillars.015
+    100066: Large Pillars.016
+    100068: Large Pillars.017
+    100070: Light
+    100072: Little Pillars.004
+    100074: Little Pillars.015
+    100076: Little Pillars.023
+    100078: Little Pillars.024
+    100080: Little Pillars.027
+    100082: Little Pillars.028
+    100084: Pillar Tops and Stands.001
+    100086: Pillar Tops and Stands.002
+    100088: Pillar Tops and Stands.003
+    100090: Pillar Tops and Stands.004
+    100092: Pillar Tops and Stands.005
+    100094: Pillars Walk Way
+    100096: Pillars Walk Way.001
+    100098: Pillars Walk Way.002
+    100100: Pillars Walk Way.003
+    100102: Pillars Walk Way.004
+    100104: Pillars Walk Way.005
+    100106: Pillars Walk Way.006
+    100108: Pillars Walk Way.007
+    100110: Pillars Walk Way.008
+    100112: Pillars Walk Way.009
+    100114: Pillars Walk Way.010
+    100116: Pillars Walk Way.011
+    100118: Pillars Walk Way.012
+    100120: Pillars Walk Way.013
+    100122: Pillars Walk Way.014
+    100124: Pillars Walk Way.015
+    100126: Statue Stand
+    100128: Statue Stand.001
+    100130: Statue Stand.002
+    100132: Statue Stand.003
+    400000: Aztec God
+    400002: Cube
+    400004: Cube.001
+    400006: Cube.002
+    400008: Cube.003
+    400010: Cube.004
+    400012: Cube.005
+    400014: Cube.006
+    400016: Floor
+    400018: Floor.001
+    400020: Floor.002
+    400022: Floor.003
+    400024: Floor.004
+    400026: Floor.005
+    400028: Floor.006
+    400030: Floor.007
+    400032: //RootNode
+    400034: Large Pillars
+    400036: Large Pillars.001
+    400038: Large Pillars.002
+    400040: Large Pillars.003
+    400042: Large Pillars.004
+    400044: Large Pillars.005
+    400046: Large Pillars.006
+    400048: Large Pillars.007
+    400050: Large Pillars.008
+    400052: Large Pillars.009
+    400054: Large Pillars.010
+    400056: Large Pillars.011
+    400058: Large Pillars.012
+    400060: Large Pillars.013
+    400062: Large Pillars.014
+    400064: Large Pillars.015
+    400066: Large Pillars.016
+    400068: Large Pillars.017
+    400070: Light
+    400072: Little Pillars.004
+    400074: Little Pillars.015
+    400076: Little Pillars.023
+    400078: Little Pillars.024
+    400080: Little Pillars.027
+    400082: Little Pillars.028
+    400084: Pillar Tops and Stands.001
+    400086: Pillar Tops and Stands.002
+    400088: Pillar Tops and Stands.003
+    400090: Pillar Tops and Stands.004
+    400092: Pillar Tops and Stands.005
+    400094: Pillars Walk Way
+    400096: Pillars Walk Way.001
+    400098: Pillars Walk Way.002
+    400100: Pillars Walk Way.003
+    400102: Pillars Walk Way.004
+    400104: Pillars Walk Way.005
+    400106: Pillars Walk Way.006
+    400108: Pillars Walk Way.007
+    400110: Pillars Walk Way.008
+    400112: Pillars Walk Way.009
+    400114: Pillars Walk Way.010
+    400116: Pillars Walk Way.011
+    400118: Pillars Walk Way.012
+    400120: Pillars Walk Way.013
+    400122: Pillars Walk Way.014
+    400124: Pillars Walk Way.015
+    400126: Statue Stand
+    400128: Statue Stand.001
+    400130: Statue Stand.002
+    400132: Statue Stand.003
+    2100000: Atlas Material
+    2100002: Aztec God
+    2100004: Atlas Material.001
+    2100006: Atlas Material.002
+    2100008: Atlas Material.003
+    2100010: Atlas Material.004
+    2100012: Atlas Material.005
+    2100014: Atlas Material.007
+    2100016: Atlas Material.010
+    2100018: Atlas Material.012
+    2100020: Atlas Material.013
+    2100022: Atlas Material.014
+    2100024: Atlas Material.015
+    2100026: Atlas Material.016
+    2100028: Atlas Material.017
+    2300000: Aztec God
+    2300002: Cube
+    2300004: Cube.001
+    2300006: Cube.002
+    2300008: Cube.003
+    2300010: Cube.004
+    2300012: Cube.005
+    2300014: Cube.006
+    2300016: Floor
+    2300018: Floor.001
+    2300020: Floor.002
+    2300022: Floor.003
+    2300024: Floor.004
+    2300026: Floor.005
+    2300028: Floor.006
+    2300030: Floor.007
+    2300032: Large Pillars
+    2300034: Large Pillars.001
+    2300036: Large Pillars.002
+    2300038: Large Pillars.003
+    2300040: Large Pillars.004
+    2300042: Large Pillars.005
+    2300044: Large Pillars.006
+    2300046: Large Pillars.007
+    2300048: Large Pillars.008
+    2300050: Large Pillars.009
+    2300052: Large Pillars.010
+    2300054: Large Pillars.011
+    2300056: Large Pillars.012
+    2300058: Large Pillars.013
+    2300060: Large Pillars.014
+    2300062: Large Pillars.015
+    2300064: Large Pillars.016
+    2300066: Large Pillars.017
+    2300068: Little Pillars.004
+    2300070: Little Pillars.015
+    2300072: Little Pillars.023
+    2300074: Little Pillars.024
+    2300076: Little Pillars.027
+    2300078: Little Pillars.028
+    2300080: Pillar Tops and Stands.001
+    2300082: Pillar Tops and Stands.002
+    2300084: Pillar Tops and Stands.003
+    2300086: Pillar Tops and Stands.004
+    2300088: Pillar Tops and Stands.005
+    2300090: Pillars Walk Way
+    2300092: Pillars Walk Way.001
+    2300094: Pillars Walk Way.002
+    2300096: Pillars Walk Way.003
+    2300098: Pillars Walk Way.004
+    2300100: Pillars Walk Way.005
+    2300102: Pillars Walk Way.006
+    2300104: Pillars Walk Way.007
+    2300106: Pillars Walk Way.008
+    2300108: Pillars Walk Way.009
+    2300110: Pillars Walk Way.010
+    2300112: Pillars Walk Way.011
+    2300114: Pillars Walk Way.012
+    2300116: Pillars Walk Way.013
+    2300118: Pillars Walk Way.014
+    2300120: Pillars Walk Way.015
+    2300122: Statue Stand
+    2300124: Statue Stand.001
+    2300126: Statue Stand.002
+    2300128: Statue Stand.003
+    3300000: Aztec God
+    3300002: Cube
+    3300004: Cube.001
+    3300006: Cube.002
+    3300008: Cube.003
+    3300010: Cube.004
+    3300012: Cube.005
+    3300014: Cube.006
+    3300016: Floor
+    3300018: Floor.001
+    3300020: Floor.002
+    3300022: Floor.003
+    3300024: Floor.004
+    3300026: Floor.005
+    3300028: Floor.006
+    3300030: Floor.007
+    3300032: Large Pillars
+    3300034: Large Pillars.001
+    3300036: Large Pillars.002
+    3300038: Large Pillars.003
+    3300040: Large Pillars.004
+    3300042: Large Pillars.005
+    3300044: Large Pillars.006
+    3300046: Large Pillars.007
+    3300048: Large Pillars.008
+    3300050: Large Pillars.009
+    3300052: Large Pillars.010
+    3300054: Large Pillars.011
+    3300056: Large Pillars.012
+    3300058: Large Pillars.013
+    3300060: Large Pillars.014
+    3300062: Large Pillars.015
+    3300064: Large Pillars.016
+    3300066: Large Pillars.017
+    3300068: Little Pillars.004
+    3300070: Little Pillars.015
+    3300072: Little Pillars.023
+    3300074: Little Pillars.024
+    3300076: Little Pillars.027
+    3300078: Little Pillars.028
+    3300080: Pillar Tops and Stands.001
+    3300082: Pillar Tops and Stands.002
+    3300084: Pillar Tops and Stands.003
+    3300086: Pillar Tops and Stands.004
+    3300088: Pillar Tops and Stands.005
+    3300090: Pillars Walk Way
+    3300092: Pillars Walk Way.001
+    3300094: Pillars Walk Way.002
+    3300096: Pillars Walk Way.003
+    3300098: Pillars Walk Way.004
+    3300100: Pillars Walk Way.005
+    3300102: Pillars Walk Way.006
+    3300104: Pillars Walk Way.007
+    3300106: Pillars Walk Way.008
+    3300108: Pillars Walk Way.009
+    3300110: Pillars Walk Way.010
+    3300112: Pillars Walk Way.011
+    3300114: Pillars Walk Way.012
+    3300116: Pillars Walk Way.013
+    3300118: Pillars Walk Way.014
+    3300120: Pillars Walk Way.015
+    3300122: Statue Stand
+    3300124: Statue Stand.001
+    3300126: Statue Stand.002
+    3300128: Statue Stand.003
+    4300000: Statue Stand
+    4300002: Pillar Tops and Stands.001
+    4300004: Pillar Tops and Stands.002
+    4300006: Pillar Tops and Stands.003
+    4300008: Little Pillars.004
+    4300010: Pillars Walk Way
+    4300012: Large Pillars.001
+    4300014: Large Pillars.004
+    4300016: Large Pillars.006
+    4300018: Aztec God
+    4300020: Floor.001
+    4300022: Floor.002
+    4300024: Floor.003
+    4300026: Floor.004
+    4300028: Floor.005
+    4300030: Floor
+    4300032: Large Pillars.012
+    4300034: Large Pillars.013
+    4300036: Large Pillars.014
+    4300038: Large Pillars.015
+    4300040: Cube
+    4300042: Cube.001
+    4300044: Cube.002
+    4300046: Floor.006
+    4300048: Floor.007
+    4300050: Cube.003
+    4300052: Cube.004
+    4300054: Cube.005
+    4300056: Pillar Tops and Stands.005
+    4300058: Large Pillars.016
+    4300060: Cube.006
+    4300062: Statue Stand.001
+    4300064: Statue Stand.002
+    4300066: Statue Stand.003
+    10800000: Light
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
